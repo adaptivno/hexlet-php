@@ -1,0 +1,16 @@
+{
+    "name": "hex/example",
+    "description": "example description",
+    "autoload": {
+        "psr-4": {
+            "Hex\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adaptivno.m",
+            "email": "adaptivno.com@gmail.com"
+        }
+    ],
+    "require": {}
+}
